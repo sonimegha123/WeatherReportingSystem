@@ -2,7 +2,7 @@
 
 An automated system for generating location-specific weather reports.
 
-This project utilizes a large language model to analyze and interpret local weather data to generate comprehensive and informative weather reports. Leveraging advanced AI techniques, it automates the creation of localized weather reports, addressing the labor-intensive process currently used by meteorologists.
+This project utilizes Retrieval Augmented Generation (RAG) to analyze and interpret local weather data to generate comprehensive and informative weather reports. Leveraging advanced AI techniques, it automates the creation of localized weather reports, addressing the labor-intensive process currently used by meteorologists.
 
 ## Files Description
 
